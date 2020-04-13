@@ -1,0 +1,13 @@
+body {
+	font-weight: 300 !important;
+}
+p {
+	font-weight: 400 !important;
+}
+.gradient-txt {
+  background: linear-gradient(to right, #ec9f23, #ffdb0a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 400;
+	letter-spacing: .01em;
+}
